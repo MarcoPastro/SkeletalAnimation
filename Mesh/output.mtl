@@ -1,0 +1,18 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.0)
+
+newmtl Ch36_Body
+Kd 0.800000012 0.800000012 0.800000012
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ke 0 0 0
+Tf 0 0 0
+d 1
+Ns 20
+illum 2
+map_Kd ../../../../home/app/mixamo-mini/tmp/skins_917c6818-e7fd-4419-b1f5-b1a9d1e7a57d.fbm/Ch36_1001_Diffuse.png
+map_Ks ../../../../home/app/mixamo-mini/tmp/skins_917c6818-e7fd-4419-b1f5-b1a9d1e7a57d.fbm/Ch36_1001_Specular.png
+map_Ns ../../../../home/app/mixamo-mini/tmp/skins_917c6818-e7fd-4419-b1f5-b1a9d1e7a57d.fbm/Ch36_1001_Glossiness.png
+bump ../../../../home/app/mixamo-mini/tmp/skins_917c6818-e7fd-4419-b1f5-b1a9d1e7a57d.fbm/Ch36_1001_Normal.png
+map_bump ../../../../home/app/mixamo-mini/tmp/skins_917c6818-e7fd-4419-b1f5-b1a9d1e7a57d.fbm/Ch36_1001_Normal.png
+
